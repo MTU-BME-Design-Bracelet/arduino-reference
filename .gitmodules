@@ -1,0 +1,12 @@
+[submodule "nfc-pn532"]
+	path = nfc-pn532
+	url = https://github.com/elechouse/nfc-pn532
+[submodule "Adafruit-PN532"]
+	path = Adafruit-PN532
+	url = https://github.com/adafruit/Adafruit-PN532
+[submodule "arduino-PN532-grant-access"]
+	path = arduino-PN532-grant-access
+	url = https://github.com/devalfrz/arduino-PN532-grant-access
+[submodule "RfidAccessControlWithEepromStorage"]
+	path = RfidAccessControlWithEepromStorage
+	url = https://github.com/webnology-ch/RfidAccessControlWithEepromStorage
